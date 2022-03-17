@@ -50,7 +50,7 @@ class App extends Component {
             let form_data = new FormData();
             form_data.append('profile', this.state.image, this.state.image.name);
     
-            let url = `http://127.0.0.1:8000/user/${this.userId}/`;
+            let url = `https://djangobackends.herokuapp.com/${this.userId}/`;
             axios.patch(url, form_data, {
                 headers: {
                     'content-type': 'multipart/form-data'
