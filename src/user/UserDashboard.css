@@ -1,149 +1,148 @@
 body {
 
-    background: var(--bs-body-color);
-     
-  
-  }
-.profilebox {
-    
-    background: var(--bs-body-color);
-    position: relative;
-    right: 0px;
-    top: 0px;
-    height: 190px;
-    width: 190px;
-    border: 1px solid green;
-     
-  }
-  
-  .NamePosition {
-    position: relative;
-    left: 0px;
-    top: 10px;
-    color: #fff;
-    text-align: center;
-    text-transform: uppercase;
-  }
-  
-  
-  
-  .bodypartTop {
-    background-image: url(profile.jpg);
-    width: 1305px;
-    border: 1px solid green;
-    padding: 10px;
-    margin: 20px;
-    color: #ffffff;
-    height: 189px;
-    position: relative;
-    right: -169px;
-    top:  -535px;
-  }
-  
-  .bodypartbottom {
-     
-    background-color: rgba(209, 213, 218, 0.966);
-    
-    width: 1504px;
-    height: 700px;
-    border: 1px solid green;
-    color: #fff;
-    position: relative;
-    right: 0px;
-    top:  0px;
+  background: var(--bs-body-color);
    
-  }
-  
-  .TitleBar h1 {
-   
-    position: relative;
-    text-align: center;
-     
-  }
-  
-  .UserSetings {
-    background: rgb(11, 64, 124);
-    width: 190px;
-    border: 1px solid green;
-    padding: 10px;
-    text-align: center;
-    height: 325px;
-    position: relative;
-    right: 0px;
-    color: #fff;
-    top:0px;
-  }
-  
-  .ScrollbarUsersetings {
-    position: relative;
-    right: 80px;
-    top: 10px;
-    width: 250px;
-    height: 380px;
-    
-  }
-  
-  .Scrollbody {
-    position: relative;
-    left: 500 px;
-    top: 20px;
-    width: 1500px;
-    height: 650px;
-  }
-  
-  .slideposition {
-    position: relative;
-   
-     
-    width: 600px;
-    height: -100px;
-   
-  }
-  
-  .imageScrol {
-    width: 600px;
-    height: 300px;
-  }
-  .myfooter{
-     position:100px;
-     margin-top: -290px;
-     margin-bottom: -200px;
-  }
-  
-.profile {
-    position: relative;
-    left: 100px;
-    top: -30px;
-  }
-  
-  .radio{
-    margin-left: 15px;
-    margin-right: 15px;
-    font-size: 15px;
-    color: green;
-    opacity: 10;
-  
-  }
 
+}
+.profilebox {
   
-.avatar {
-    width: 80px;
-    height: 80px;
-    border-radius: 60%;
-    border: 2px solid rgb(230, 230, 18);
-    position: relative;
-    left: 40px;
-    top: -10px;
-  
-  }
-.rowsl{
+  background: var(--bs-body-color);
   position: relative;
-    right: -210px;
-    width: 1275px;
-    top: -545px;
-    margin-bottom: -600px;
-    
+  right: 0px;
+  top: 0px;
+  height: 190px;
+  width: 190px;
+  border: 1px solid green;
+   
+}
+
+.NamePosition {
+  position: relative;
+  left: 0px;
+  top: 10px;
+  color: #fff;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+
+
+.bodypartTop {
+  background-image: url(profile.jpg);
+  width: 1160px;
+  border: 1px solid green;
+  padding: 10px;
+  margin: 20px;
+  color: #ffffff;
+  height: 189px;
+  position: relative;
+  right: -169px;
+  top:  -535px;
+}
+
+.bodypartbottom {
+   
+  background-color: rgba(209, 213, 218, 0.966);
+  
+  width: 1350px;
+  height: 700px;
+  border: 1px solid green;
+  color: #fff;
+  position: relative;
+  right: 0px;
+  top:  0px;
+ 
+}
+
+.TitleBar h1 {
+ 
+  position: relative;
+  text-align: center;
+   
+}
+
+.UserSetings {
+  background: rgb(11, 64, 124);
+  width: 190px;
+  border: 1px solid green;
+  padding: 10px;
+  text-align: center;
+  height: 325px;
+  position: relative;
+  right: 0px;
+  color: #fff;
+  top:0px;
+}
+
+.ScrollbarUsersetings {
+  position: relative;
+  right: 80px;
+  top: 10px;
+  width: 250px;
+  height: 380px;
+  
+}
+
+.Scrollbody {
+  position: relative;
+  left: 500 px;
+  top: 20px;
+  width: 1250px;
+  height: 650px;
+}
+
+.slideposition {
+  position: relative;
+ 
+   
+  width: 600px;
+  height: -100px;
+ 
+}
+
+.imageScrol {
+  width: 600px;
+  height: 300px;
+}
+.myfooter{
+   position:100px;
+   margin-top: -290px;
+   margin-bottom: -200px;
+}
+
+.profile {
+  position: relative;
+  left: 100px;
+  top: -30px;
+}
+
+.radio{
+  margin-left: 15px;
+  margin-right: 15px;
+  font-size: 15px;
+  color: green;
+  opacity: 10;
+
+}
+
+
+.avatar {
+  width: 80px;
+  height: 80px;
+  border-radius: 60%;
+  border: 2px solid rgb(230, 230, 18);
+  position: relative;
+  left: 40px;
+  top: -10px;
+
+}
+.rowsl{
+position: relative;
+  right: -210px;
+  width: 1150px;
+  top: -545px;
+  margin-bottom: -600px;
+  
 
 
 }
-  

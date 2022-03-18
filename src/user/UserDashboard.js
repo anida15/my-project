@@ -111,7 +111,7 @@ const UserDashboard = () => {
 
         <div className="Scrollbody">
 
-          <Scrollbar  >
+          
           <div className="profilebox">
            <h2 className="text-info ">WELCOME!!</h2>
              {pic()}
@@ -128,8 +128,7 @@ const UserDashboard = () => {
     <div class="row rowsl">
     <div class="col">
     Containers provide a means to center and horizontally pad your site’s contents. Use .container for a responsive pixel width or .container-fluid for width: 100% across all viewport and device sizes.
-    Rows are wrappers for columns. Each column has horizontal<br/> padding (called a gutter) for controlling the space between them. This padding is then counteracted on the rows with negative margins. This way, all the content in your columns is visually aligned down the left side.
-    In a grid layout, content must be placed within columns and only<br/>
+    Rows are wrappers for columns. Each column has horizontal<br/> padding (called a gutter) for controlling the space between them. This padding is then counteracted on the rows 
     
       
     </div>
@@ -146,8 +145,7 @@ const UserDashboard = () => {
     Column widths are set in percentages, so they’re always fluid and sized <br/> relative to their parent element.
     Columns have horizontal padding to create the gutters between individual<br/> 
                
-    columns, however, you can remove the margin from rows and padding from columns with .no-gutters on the .row.
-    To make the grid responsive, there are five grid breakpoints, one for each<br/>  
+    columns, however, you can remove the margin from rows and padding from columns with .  
      
     </div>
   </div>
@@ -156,7 +154,7 @@ const UserDashboard = () => {
 
 
 
-          </Scrollbar>
+           
 
         </div>
 
