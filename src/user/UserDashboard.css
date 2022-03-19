@@ -120,9 +120,8 @@ body {
   height: 300px;
 }
 .myfooter{
-   position:100px;
-   margin-top: -290px;
-   margin-bottom: -200px;
+     
+  width: 1350px;
 }
 
 .profile {

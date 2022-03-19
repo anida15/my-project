@@ -206,7 +206,7 @@ const UserDashboard = () => {
 
 
       </div>
-      <footer className="footer bg-dark">
+      <footer className="footer bg-dark myfooter">
         <div className="container-fluid bg-primary text-white text-center  ">
 
           <b>we have created many of our appartment in different location</b><br />
