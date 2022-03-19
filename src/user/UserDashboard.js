@@ -113,7 +113,7 @@ const UserDashboard = () => {
 
           
           <div className="profilebox">
-           <h2 className="text-info ">WELCOME!!</h2>
+           <h2 className="welcome">WELCOME!!</h2>
              {pic()}
             {Nameing()}
              </div>
